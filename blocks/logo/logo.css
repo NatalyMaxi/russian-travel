@@ -1,8 +1,7 @@
 .logo {
-  position: absolute;
   width: 176px;
   height: 52px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin-left: 0;
+  background: #FFFFFF;
+  margin-top: 28px;
+  margin-left: 48px;
 }

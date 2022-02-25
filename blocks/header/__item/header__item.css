@@ -1,0 +1,14 @@
+.header__item {
+  padding: 0;
+  height: 28px;
+  text-align: right;
+}
+
+.header__item:first-child {
+  margin-right: 18px;
+  width: 30px;
+}
+
+.header__item:last-child {
+  width: 29px;
+}
