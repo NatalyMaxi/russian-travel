@@ -1,7 +1,5 @@
 .header__item {
-  padding: 0;
   height: 28px;
-  text-align: right;
 }
 
 .header__item:first-child {
