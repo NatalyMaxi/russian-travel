@@ -4,3 +4,22 @@
   gap: 16px;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
 }
+
+@media screen and (max-width: 1279px) {
+  .gallery {
+    gap: 14px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .gallery {
+    margin: 88px 24px 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .gallery {
+    margin: 64px 16px 0;
+    gap: 12px;
+  }
+}
