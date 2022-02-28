@@ -1,12 +1,8 @@
 .header__item {
-  height: 28px;
-}
-
-.header__item:first-child {
+  display: inline-block;
   margin-right: 18px;
-  width: 30px;
 }
 
 .header__item:last-child {
-  width: 29px;
+  margin-right: 0;
 }

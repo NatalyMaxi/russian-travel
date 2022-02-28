@@ -1,5 +1,16 @@
 .lead__pic {
-  min-width: 984px;
   margin: 64px 0 0;
-  min-height: 615px;
+}
+
+@media screen and (max-width: 1279px) {
+  .lead__pic {
+    margin: 56px 0 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__pic {
+    margin: 40px -2px 0;
+    overflow: hidden;
+  }
 }

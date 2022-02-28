@@ -1,9 +1,9 @@
 .intro__text {
   font-family: 'Inter-Regular';
-  font-style: normal;
   font-size: 16px;
   line-height: 26px;
   color: #FFFFFF;
-  margin: 0;
-  padding-top: 40px;
+  margin-top: 40px;
+  max-width: 690px;
+  margin-bottom: 0;
 }
