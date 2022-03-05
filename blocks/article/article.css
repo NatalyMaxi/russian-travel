@@ -6,7 +6,6 @@
     "img text";
   column-gap: 40px;
   row-gap: 48px;
-  padding: 0;
 }
 
 @media screen and (max-width: 1279px) {
@@ -29,6 +28,6 @@
       "website"
       "img"
       "text";
-    gap: 32px;
+    row-gap: 32px;
   }
 }
