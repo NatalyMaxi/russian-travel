@@ -1,16 +1,16 @@
 .lead__pic {
-  margin: 64px 0 0;
+  margin-top: 64px;
+  width: 100%;
 }
 
 @media screen and (max-width: 1279px) {
   .lead__pic {
-    margin: 56px 0 0;
+    margin-top: 56px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .lead__pic {
-    margin: 40px -2px 0;
-    overflow: hidden;
+    margin-top: 40px;
   }
 }

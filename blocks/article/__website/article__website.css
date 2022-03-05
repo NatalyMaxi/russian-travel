@@ -1,0 +1,15 @@
+
+.article__website {
+  grid-area: website;
+  align-self: end;
+} 
+
+@media screen and (max-width: 1279px) {}
+
+@media screen and (max-width: 1023px) {}
+
+@media screen and (max-width: 767px) {
+  .article__website {
+    margin: 0 16px 0;
+  }
+}

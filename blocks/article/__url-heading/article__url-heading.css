@@ -1,11 +1,12 @@
-.places__url-heading {
+.article__url-heading {
+  display: block;
   font-family: 'Inter-Regular';
   font-size: 12px;
   line-height: 12px;
   letter-spacing: 2px;
   color: #AAAAAA;
   text-transform: uppercase;
-
+margin-bottom: 12px;
 }
 
 @media screen and (max-width: 1279px) {}
