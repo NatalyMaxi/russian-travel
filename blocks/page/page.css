@@ -1,18 +1,4 @@
 .page {
   background-color: #2A2C2F;
-  max-width: 1280px;
-  font-family: Helvetica, Arial, sans-serif;
-  text-rendering: optimizeLegibility;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  margin: 0 auto;
-  position: relative;
-  padding-top: 28px;
-}
-
-@media screen and (max-width: 767px) {
-  .page {
-    padding-top: 16px;
-  }
+  width: 100vw;
 }
